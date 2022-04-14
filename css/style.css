@@ -1,0 +1,197 @@
+header {
+  background-image: url(../images/Rectangle-17.svg);
+  background-size: cover;
+  height: 140vh;
+  -webkit-filter: hue-rotate(30deg);
+          filter: hue-rotate(30deg);
+}
+
+header .navbar {
+  padding-top: 50px;
+}
+
+header .navbar .navbar-brand {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+header .navbar .nav-item {
+  padding-left: 20px;
+}
+
+header .navbar .nav-link {
+  color: #ffffff;
+}
+
+.Lorem-ipsum {
+  text-align: center;
+  padding-top: 150px;
+  color: #ffffff;
+  font-size: 20px;
+  /* Extra small devices (phones, 600px and down) */
+}
+
+.Lorem-ipsum p {
+  padding: 20px 200px 20px 200px;
+}
+
+@media (max-width: 575.98px) {
+  .Lorem-ipsum p {
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;
+  }
+}
+
+@media (min-width: 768px) {
+  .Lorem-ipsum p {
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;
+  }
+}
+
+@media (min-width: 575.98px) and (max-width: 768px) {
+  .Lorem-ipsum p {
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;
+  }
+}
+
+button {
+  border-radius: 27px;
+}
+
+.hero .data-hero {
+  padding-top: 100px;
+}
+
+.hero .data-hero h6 {
+  font-size: 40px;
+}
+
+.hero .data-hero p {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 25px;
+}
+
+.hero .data-hero button {
+  border-radius: 27px;
+}
+
+@media (max-width: 767.98px) {
+  .hero .data-hero .data-hero {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 20px;
+  }
+  .hero .data-hero button {
+    margin-bottom: 20px;
+  }
+}
+
+.hero .data-hero .image {
+  padding-right: 0;
+}
+
+.work {
+  background-color: #FAFAFA;
+  padding-top: 100px;
+}
+
+.work .work-title {
+  text-align: center;
+}
+
+.work .work-title p {
+  padding-top: 10px;
+  padding-bottom: 25px;
+}
+
+.work img {
+  width: 50px;
+  margin: auto;
+  padding-top: 15px;
+}
+
+.work .card-images1 {
+  text-align: center;
+}
+
+.work .card-images1 h5 {
+  padding: 5px 20px;
+}
+
+.work .card-images1 p {
+  padding: 5px 20px;
+}
+
+.work .card-images2 {
+  margin-top: 20px;
+  margin-bottom: 80px;
+  text-align: center;
+}
+
+.work .card-images2 h5 {
+  padding: 5px 20px;
+}
+
+.work .card-images2 p {
+  padding: 5px 20px;
+}
+
+.Blog {
+  background-image: url(../images/Image.svg);
+  height: 100vh;
+  background-size: cover;
+  -webkit-filter: hue-rotate(20deg);
+          filter: hue-rotate(20deg);
+}
+
+.Blog .Blog-data {
+  text-align: center;
+  padding: 300px 150px 100px;
+  color: #ffffff;
+}
+
+@media (max-width: 446px) {
+  .Blog .Blog-data {
+    text-align: center;
+    font-size: 20px;
+    padding: 50px 50px;
+  }
+}
+
+.final .final-data {
+  text-align: center;
+  padding: 40px;
+}
+
+.final .rec11 {
+  width: 100%;
+}
+
+.final .lorem {
+  margin-top: 100px;
+}
+
+.final h3 {
+  font-size: 45px;
+}
+
+.final .btn {
+  border-radius: 27px;
+  padding: 6px 20px;
+}
+
+.footer {
+  background-color: #325DFF;
+  padding: 30px;
+}
+
+.footer h5 {
+  text-align: center;
+}
+/*# sourceMappingURL=style.css.map */
